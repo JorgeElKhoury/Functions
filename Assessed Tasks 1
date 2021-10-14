@@ -1,0 +1,11 @@
+// valid declarations
+int a = 7;               // declare an int variable
+const double d = 8.7;    // declare a constant double
+double sqrt(double);     // a function that takes a double and returns a double
+vector<Token> v;         // a vector of Tokens variable.
+
+// errors!
+int main()
+{
+    cout << f(i) << '\n';
+}
